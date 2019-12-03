@@ -10,6 +10,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
+    <p> Just checking on whats happening with the site </p>
     <p> This is where we are trying to make changes to check auto deployment. </p>
     <p>Now go build something great.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
