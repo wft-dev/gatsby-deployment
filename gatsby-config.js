@@ -31,6 +31,7 @@ module.exports = {
       resolve: `gatsby-plugin-s3`,
       options: {
         bucketName: "testing-gatsbyjs",
+        region: "ap-south-1",
         acl: null
       },
     },
